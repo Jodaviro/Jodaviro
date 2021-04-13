@@ -3,7 +3,7 @@ I’m studying really hard to become an amazing web developer very soon.🚀
 
 I’m currently learning backend with Django and other cool stuff. 
 
-This are the tecnologies I'have learned so far💪 :
+This are the tecnologies I'have learned so far:💪  
 - Git and Github
 - HTML
 - SQL databases
