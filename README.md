@@ -6,6 +6,7 @@ I’m currently learning backend with Django and other cool stuff.
 This are the tecnologies I'have learned so far:💪  
 - Git and Github
 - HTML
+- Bootstrap
 - SQL databases
   - Mysql
   - PostgreSQL
