@@ -14,7 +14,7 @@ This are the tecnologies I'have learned so far:💪
   - Selenium WebDriver
   - Flask
   - Django   
- - CSS (coming soon)
+ - CSS
  - Docker (coming soon)  
     
   
