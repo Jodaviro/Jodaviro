@@ -1,7 +1,7 @@
 # Hi, I’m @Jodaviro 👋
-I’m studying really hard to become an amazing web developer very soon.🚀  
+I’m studying really hard to become an amazing web developer .🚀  
 
-I’m currently learning backend with Django and other cool stuff. 
+I’m currently learning backend develop with Python and other cool stuff. 
 
 This are the tecnologies I'have learned so far:💪  
 - Git and Github
@@ -13,7 +13,7 @@ This are the tecnologies I'have learned so far:💪
 - Python
   - Selenium WebDriver
   - Flask
-  - Django (coming soon)  
+  - Django   
  - CSS (coming soon)
  - Docker (coming soon)  
     
